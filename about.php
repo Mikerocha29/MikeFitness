@@ -6,7 +6,7 @@
         <div class="row py-3">
             <div class="col-lg-10">
                 <h1><span> ABOUT US </span> </h1>
-                <h2>Imagine a new story for your life and believe in it.
+                <h2>Imagine a new   story for your life and believe in it.
                 </h2>
             </div>
         </div>
